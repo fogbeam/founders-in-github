@@ -1,7 +1,7 @@
 # Founders in Github
 This repository is a list of GitHub users that have founded a company.
 
-### @jbenet founded Protocol Labs [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/protocol)[![AngelList](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/angellist.png)](https://angel.co/protocol-labs)[![Web](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/globe.png)](http://ipn.io/)
+### [@jbenet](https://github.com/jbenet) founded Protocol Labs [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/protocol)[![AngelList](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/angellist.png)](https://angel.co/protocol-labs)[![Web](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/globe.png)](http://ipn.io/)
 - Really interesting distributed apps projects [IPFS](https://ipfs.io/)[![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/ipfs)  and [Filecoin](http://filecoin.io/)
 
 # Contribute:
@@ -15,4 +15,4 @@ This repository is a list of GitHub users that have founded a company.
 To say hi or something, don't hesitate, send me an email: vreaxe@gmail.com
 
 **Resources used**
-Icons: https://github.com/encharm/Font-Awesome-SVG-PNG
+- Icons: https://github.com/encharm/Font-Awesome-SVG-PNG
