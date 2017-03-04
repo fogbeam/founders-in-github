@@ -1,8 +1,8 @@
 # Founders in Github
 This repository is a list of GitHub users that have founded a company.
 
-### [@jbenet](https://github.com/jbenet) founded Protocol Labs [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/protocol)[![AngelList](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/angellist.png)](https://angel.co/protocol-labs)[![Web](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/globe.png)](http://ipn.io/)
-- Really interesting distributed apps projects [IPFS](https://ipfs.io/)[![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/ipfs)  and [Filecoin](http://filecoin.io/)
+### [@jbenet](https://github.com/jbenet "GitHub User") founded Protocol Labs [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/protocol "GitHub")[![AngelList](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/angellist.png)](https://angel.co/protocol-labs "AngelList")[![Web](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/globe.png)](http://ipn.io/ "Web")
+- Really interesting distributed apps projects [IPFS](https://ipfs.io/ "IPFS")[![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/ipfs "IPFS in GitHub")  and [Filecoin](http://filecoin.io/ "Filecoin")
 
 # Contribute:
 - The founder or founders must have a GitHub account
