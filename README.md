@@ -5,7 +5,7 @@ This repository is a list of GitHub users that have founded a company.
 - Really interesting distributed apps projects [IPFS](https://ipfs.io/ "IPFS")[![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/ipfs "IPFS in GitHub")  and [Filecoin](http://filecoin.io/ "Filecoin")
 
 ### [@JohnONolan](https://github.com/JohnONolan "GitHub User") and [@ErisDS](https://github.com/ErisDS "GitHub User") founded Ghost [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/TryGhost "GitHub")[![AngelList](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/angellist.png)](https://angel.co/ghost "AngelList")[![Web](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/globe.png)](https://ghost.org/ "Web")
-- Open source publishing platform in JavaScript [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/TryGhost/Ghost "Ghost in GitHub"). 
+- Open source publishing platform in JavaScript [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/TryGhost/Ghost "Ghost in GitHub")
 
 
 # Contribute:
