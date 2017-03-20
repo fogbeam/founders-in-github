@@ -7,6 +7,7 @@ This repository is a list of GitHub users that have founded a company.
 ### [@JohnONolan](https://github.com/JohnONolan "GitHub User") and [@ErisDS](https://github.com/ErisDS "GitHub User") founded Ghost [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/TryGhost "GitHub")[![AngelList](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/angellist.png)](https://angel.co/ghost "AngelList")[![Web](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/globe.png)](https://ghost.org/ "Web")
 - Open source publishing platform in JavaScript [![Github](https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/32/github.png)](https://github.com/TryGhost/Ghost "Ghost in GitHub")
 
+### [@Mindcrime](https://github.com/mindcrime "GitHub User") founded [Fogbeam Labs](https://www.fogbeam.com)
 
 # Contribute:
 - The founder or founders must have a GitHub account
